@@ -3,6 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdbool.h>
+//Nicolas Orozco y Santiago Acevedo
 
 #define N 4  // Número de procesadores
 
